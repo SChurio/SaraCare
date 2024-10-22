@@ -1,0 +1,12 @@
+{
+    "name": "Python:Streamlit",
+    "type": "debugpy",
+    "request": "launch",
+    "module": "streamlit",
+    "args": [
+        "run",
+        "${file}",
+        "--server.port",
+        "SPECIFY_YOUR_OWN_PORT_NUMBER_HERE"
+    ]
+}

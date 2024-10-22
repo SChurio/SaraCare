@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+azure-cosmos
+langchain
+openai
+python-dotenv
+streamlit

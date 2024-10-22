@@ -85,7 +85,7 @@ if st.session_state.step == 0:
     with col1:
         st.write(' ')
     with col2:
-        st.image("sara.png")
+        st.image("Sara.png")
     with col3:
         st.write(' ')
 
